@@ -1,0 +1,14 @@
+C:\Users\zirov\source\repos\Ресторан\bin\Debug\Ресторан.exe.config
+C:\Users\zirov\source\repos\Ресторан\bin\Debug\Ресторан.exe
+C:\Users\zirov\source\repos\Ресторан\bin\Debug\Ресторан.pdb
+C:\Users\zirov\source\repos\Ресторан\obj\Debug\Ресторан.csprojAssemblyReference.cache
+C:\Users\zirov\source\repos\Ресторан\obj\Debug\Ресторан.Form1.resources
+C:\Users\zirov\source\repos\Ресторан\obj\Debug\Ресторан.Properties.Resources.resources
+C:\Users\zirov\source\repos\Ресторан\obj\Debug\Ресторан.csproj.GenerateResource.cache
+C:\Users\zirov\source\repos\Ресторан\obj\Debug\Ресторан.csproj.CoreCompileInputs.cache
+C:\Users\zirov\source\repos\Ресторан\obj\Debug\Ресторан.exe
+C:\Users\zirov\source\repos\Ресторан\obj\Debug\Ресторан.pdb
+C:\Users\zirov\source\repos\Ресторан\bin\Debug\Database1.mdf
+C:\Users\zirov\source\repos\Ресторан\bin\Debug\Database1_log.ldf
+C:\Users\zirov\source\repos\Ресторан\bin\Debug\Database2.mdf
+C:\Users\zirov\source\repos\Ресторан\bin\Debug\Database2_log.ldf
